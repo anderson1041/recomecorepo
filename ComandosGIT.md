@@ -113,3 +113,13 @@ O git push é o comando em que você transfere commits a partir do seu repositó
 git push origin develop
 
 git push -u origin master
+
+-----------------------------------------------------
+git init
+git remote add origin https://github.com/user/my_repo
+
+Save
+git add 
+git commit -m
+git push -u origin master
+-----------------------------------------------------
